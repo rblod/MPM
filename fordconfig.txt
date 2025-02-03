@@ -1,0 +1,8 @@
+project: "ShallowWaterModel"
+sourceDirs:
+  - .
+outputDir: doc
+fileExtensions:
+  - f90
+  - F90
+preprocess: False
